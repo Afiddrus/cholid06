@@ -11,7 +11,9 @@
 Welcome to my world of creative domain, I am a Frontend Web Developer, Backend Web Developer, and Database Administrator doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.
 
 ### Experience
-I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting _reusable email components_, _building mobile-responsive campaigns_, and _designing impactful digital ads_ for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+### Experience
+I have over 3 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting reusable email components, building mobile-responsive campaigns, and designing impactful digital ads for content creation. My contributions extend to being an Open Source Contributor, where I ensure accessibility and provide valuable resources to support initiatives, especially for veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+
 
 
 <br><br>
@@ -39,8 +41,7 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg
-" title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
 
 </div>
 
