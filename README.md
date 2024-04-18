@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://ibb.co/Qkq1CjX">
+ <img alt="Profile Banner" src="https://i.ibb.co/ZSwkY1N/Hijau-Biru-Modern-Personal-Linkedin-Banner.png">
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
@@ -38,8 +38,7 @@ My toolkit includes, but is not limited to:
     <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii" alt="Yii" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50" />&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
-" title="Flutter" alt="Flutter" width="50" height="50" />&nbsp;
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" />&nbsp;
 </div>
 
 ### Tools & Platforms: 
@@ -75,8 +74,6 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
 <a href="https://api.whatsapp.com/send?phone=081229648915" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="Whatsapp Badge" />
 </a>
-
-  </a>&nbsp;
   <a href="https://www.instagram.com/hiroudaa">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
