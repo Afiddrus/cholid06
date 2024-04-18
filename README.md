@@ -78,9 +78,6 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
   <a href="https://www.linkedin.com/in/cholidafiddrusw">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-<a href="https://api.whatsapp.com/send?phone=+6281229648915" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="Whatsapp Badge" />
-</a>
   <a href="https://www.instagram.com/hiroudaa">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
