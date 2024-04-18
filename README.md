@@ -28,7 +28,7 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c.eps" title="C#" alt="c#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 </div>
 
 ### Frameworks/Libraries: 
@@ -38,7 +38,10 @@ My toolkit includes, but is not limited to:
     <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii" alt="Yii" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50" />&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg
+" title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
+
 </div>
 
 ### Tools & Platforms: 
@@ -47,7 +50,11 @@ My toolkit includes, but is not limited to:
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="PostgreSQL" width="50" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" />&nbsp;
+
 </div>
 
 ### Design & UI/UX: 
@@ -71,7 +78,7 @@ I'm always on the lookout for new challenges and opportunities to collaborate on
   <a href="https://www.linkedin.com/in/cholidafiddrusw">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-<a href="https://api.whatsapp.com/send?phone=081229648915" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=+6281229648915" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="Whatsapp Badge" />
 </a>
   <a href="https://www.instagram.com/hiroudaa">
