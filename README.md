@@ -11,8 +11,7 @@
 Welcome to my world of creative domain, I am a Frontend Web Developer, Backend Web Developer, and Database Administrator doing all things creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.
 
 ### Experience
-### Experience
-I have over 3 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting reusable email components, building mobile-responsive campaigns, and designing impactful digital ads for content creation. My contributions extend to being an Open Source Contributor, where I ensure accessibility and provide valuable resources to support initiatives, especially for veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+I have over 3 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of _building mobile-responsive apps_, and _building responsive-website_. Let's connect and explore how I can bring my unique blend of skills to your team.
 
 
 
